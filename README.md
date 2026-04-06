@@ -42,4 +42,4 @@ Como o software é distribuído de forma independente, o Windows pode exibir um 
 
 ---
 
-Desenvolvido com ❤️ por [Luiz Carlos Goulart](https://github.com/LuizCarlosGoulart).
+Desenvolvido por [Luiz Carlos Goulart](https://github.com/LuizCarlosGoulart).
